@@ -3,7 +3,7 @@
 An interactive Power BI storytelling project analyzing over 20 years of professional tennis data. This project focuses on historical trends, "Big Three" dominance, and player performance across varying court surfaces.
 
 ## 📺 Project Walkthrough
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/2cZuWwmZzos)
 *Click the badge above to watch a video demonstration of the dashboard's interactivity.*
 
 ---
