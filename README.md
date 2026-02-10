@@ -1,8 +1,5 @@
 # ATP Tour Performance Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/Data_Viz-Power_BI-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 An interactive Power BI storytelling project analyzing over 20 years of professional tennis data. This project focuses on historical trends, "Big Three" dominance, and player performance across varying court surfaces.
 
 ## 📺 Project Walkthrough
