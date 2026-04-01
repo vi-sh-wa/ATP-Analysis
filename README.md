@@ -4,7 +4,8 @@ An interactive Power BI storytelling project analyzing over 20 years of professi
 
 ## 📺 Project Walkthrough
 [![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/2cZuWwmZzos)
-*Click the badge above to watch a video demonstration of the dashboard's interactivity.*
+
+*Click the badge to watch a video demonstration of the dashboard's interactivity.*
 
 ---
 
